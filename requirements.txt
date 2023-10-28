@@ -9,3 +9,4 @@ streamlit
 faiss-cpu
 streamlit_chat
 pysqlite3-binary
+SpeechRecognition

@@ -1,0 +1,7 @@
+embedchain == 0.0.58
+deep_translator
+elevenlabslib
+elevenlabs
+openai
+streamlit
+faiss-cpu

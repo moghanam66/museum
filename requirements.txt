@@ -11,3 +11,4 @@ streamlit_chat
 pysqlite3-binary
 SpeechRecognition
 gTTS
+libportaudio2

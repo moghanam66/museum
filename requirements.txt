@@ -1,5 +1,5 @@
 langchain
-embedchain
+embedchain == 0.0.58
 embedchain[gmail]
 deep_translator
 elevenlabslib

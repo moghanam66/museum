@@ -1,5 +1,6 @@
 langchain
-embedchain 
+embedchain
+embedchain[gmail]
 deep_translator
 elevenlabslib
 elevenlabs

@@ -41,7 +41,7 @@ museumbot.online = False
 # Create a function to recognize speech
 def recognize_speech():
     r = sr.Recognizer()
-    with sr.Microphone(device_index=2) as source:
+    with sr.Microphone(device_index=-1) as source:
         st.write("Listening...")
         audio = r.listen(source , timeout = 5)
     

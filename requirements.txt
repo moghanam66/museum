@@ -5,3 +5,4 @@ elevenlabs
 openai
 streamlit
 faiss-cpu
+streamlit_chat

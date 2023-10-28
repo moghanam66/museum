@@ -3,7 +3,6 @@ import streamlit as st
 from pathlib import Path
 
 OPENAI_API_KEY = st.secrets["openAI_API"]
-googleAPIKEY = st.secrets["google_API"]
 
 def get_base64(bin_file):
     with open(bin_file, 'rb') as f:

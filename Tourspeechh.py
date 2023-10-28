@@ -1,6 +1,5 @@
 #works on .venv2
 import embedchain
-print(embedchain.__version__)
 import streamlit as st
 import base64
 import openai

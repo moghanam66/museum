@@ -1,3 +1,4 @@
+PyAudio
 langchain
 embedchain == 0.0.58
 embedchain[gmail]
@@ -11,4 +12,3 @@ streamlit_chat
 pysqlite3-binary
 SpeechRecognition
 gTTS
-PyAudio

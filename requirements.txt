@@ -1,3 +1,4 @@
+langchain
 embedchain 
 deep_translator
 elevenlabslib
